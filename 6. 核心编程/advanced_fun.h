@@ -1,0 +1,1 @@
+void advanced_fun();
